@@ -10,7 +10,7 @@ header , ul  {
     background-color: #071428;
     height: 70px;
     width: 100%;
-    float: left; 
+
     display: inline-flex;
     color: #ade1fb;
     font-size: larger;
