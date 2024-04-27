@@ -1,0 +1,29 @@
+.header {
+    background-color: #000000;
+    height: 100px;
+    width: 100%;
+    float: left; 
+    display: flex;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.header p{
+    color: blue;
+    white-space: 54px;
+}
+
+
+
+.footer{
+    background-color: black;
+    float: left;
+    height: 100px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding-bottom: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} 
