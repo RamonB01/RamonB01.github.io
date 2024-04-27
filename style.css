@@ -1,5 +1,5 @@
 .header {
-    background-color: #000000;
+    background-color: #071428;
     height: 100px;
     width: 100%;
     float: left; 
@@ -10,19 +10,59 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
-.header p{
-    color: blue;
-    white-space: 54px;
+
+.header.p:hover {
+    animation-delay: 3ms;
+    color: black;
+}
+
+.header #ramon {
+    color: #ade1fb;
+    padding-left: 5%
+    ;
+}
+
+.header #home {
+    color: #ade1fb;
+    padding-left: 40%;
+}
+
+.header #quien {
+    color: #ade1fb;
+    padding-left: 5%
+    ;
+}
+
+.header #port {
+    color: #ade1fb;
+    padding-left: 5%
+    ;
+}
+
+.header #cont {
+    color: #ade1fb;
+    padding-left: 5%
+    ;
 }
 
 
+.contenedor {
+    float: left;
+    width: 100%;
+    height: 800px;
+    background-color: #173c4c;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
 
 .footer{
-    background-color: black;
+    background-color: #071428;
     float: left;
     height: 100px;
     width: 100%;
-    color: white;
+    color: #ade1fb;
     text-align: center;
     padding-bottom: 5px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
