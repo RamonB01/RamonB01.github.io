@@ -10,7 +10,6 @@ header , ul  {
     background-color: #071428;
     height: 70px;
     width: 100%;
-
     display: inline-flex;
     color: #ade1fb;
     font-size: larger;
@@ -60,7 +59,7 @@ header #ramon {
     width: 100%;
     height: 600px;
     margin: 0;
-    background-color: #173c4c;
+    background-color: #2d5769;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -70,7 +69,7 @@ header #ramon {
     float: left;
     width: 100%;
     height: 600px;
-    background-color: #173c4c;
+    background-color: #2d5769;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
