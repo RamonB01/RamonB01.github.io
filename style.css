@@ -66,15 +66,22 @@ header #al {
     height: 8%;
     margin: 0;
     background-color: #2d5769;
+    padding-top: 20px;
     display: flex;
     flex-direction: row;
     /* flex-direction: column; */
     justify-content: flex-start;
 }
 
+.contImg{
+    padding-left: 6%;
+    padding-bottom: 80px;
+}
+
 .contenedor img{
-    border-radius: 100%;
-    
+    border-radius: 45%;
+    height: 500px;
+    width: auto;
 }
 
 .quien {
