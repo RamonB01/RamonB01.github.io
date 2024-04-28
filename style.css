@@ -8,7 +8,7 @@ header{
 }
 header , ul  {
     background-color: #071428;
-    height: 70px;
+    height: 90px;
     width: 100%;
     display: inline-flex;
     color: #ade1fb;
@@ -21,10 +21,13 @@ header , ul  {
 
 header ul li{
     display:  inline;
-    margin-right: 60px
+    margin-right: 40px
 }
 
+header img {
+    border-radius: 100%;
 
+}
 
 header p:hover {
     animation-delay: 3ms;
@@ -38,6 +41,9 @@ header #ramon {
 
 }
 
+header #al {
+    padding-left: 10%;
+}
 
 .button {
     height: auto;
@@ -61,7 +67,8 @@ header #ramon {
     margin: 0;
     background-color: #2d5769;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    /* flex-direction: column; */
     justify-content: flex-start;
 }
 
