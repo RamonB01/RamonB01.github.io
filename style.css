@@ -84,6 +84,14 @@ header #al {
     width: auto;
 }
 
+.textoPre {
+    font-family: Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+    margin: 6%;
+    margin-top: 10%;
+}
+
 .quien {
     float: left;
     width: 100%;
@@ -96,7 +104,8 @@ header #al {
 
 .quien p{
     padding-left: 4%;
-    color: #ade1fb;
+    /* color: #ade1fb; */
+    color: white;
     /* height: 60%; */
     width: 60%;
     font-family: monospace;
