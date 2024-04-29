@@ -88,6 +88,8 @@ header #al {
     font-family: Helvetica, sans-serif;
     font-weight: bolder;
     font-size: 25px;
+    color: white;
+    /* color: #071428; */
     margin: 6%;
     margin-top: 10%;
 }
@@ -109,7 +111,7 @@ header #al {
     /* height: 60%; */
     width: 60%;
     font-family: monospace;
-    font-size: large;
+    font-size: 17px;
 }
 
 .quien h1{
