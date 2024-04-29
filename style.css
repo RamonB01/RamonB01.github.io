@@ -127,10 +127,28 @@ header #al {
     background-color: #2d5769;
     float: inline-end;
     width: 100%;
-    padding: 4%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    /* padding: 5%;
+    padding-left: 5%; */
     text-align: center;
+    color: white
+    
 }
 
+.contacto p{
+    color: #ade1fb;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.redes img{
+    height: 40px;
+    /* padding-left: 2%; */
+    margin: 2%;
+    /* padding-right: 2%; */
+    filter: hue-rotate();
+}
 
 .footer{
     background-color: #071428;
