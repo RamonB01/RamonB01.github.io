@@ -29,7 +29,7 @@ header img {
 
 }
 
-header p:hover {
+header a:hover {
     animation-delay: 3ms;
     color: #266ca9;
 }
