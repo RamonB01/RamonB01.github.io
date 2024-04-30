@@ -22,7 +22,7 @@ header , ul  {
     font-size: larger;
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    /* padding: 0; */
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
@@ -50,7 +50,7 @@ header img {
 header #ramon {
     color: #ade1fb;
     padding-left: 6%;
-    padding-right: 35%;
+    padding-right: 45%;
 
 }
 
@@ -88,6 +88,7 @@ header #al {
 
 .contImg{
     padding-left: 6%;
+    padding-top: 90px;
     padding-bottom: 80px;
 }
 
@@ -104,7 +105,7 @@ header #al {
     color: white;
     /* color: #071428; */
     margin: 6%;
-    margin-top: 10%;
+    margin-top: 14%;
 }
 
 .quien {
