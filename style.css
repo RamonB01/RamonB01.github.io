@@ -6,6 +6,13 @@ body {
 header{
     margin-top: 0;
 }
+
+header a:hover {
+    animation-delay: 3ms;
+    /* color: #266ca9; */
+    color: yellow;
+}
+
 header , ul  {
     background-color: #071428;
     height: 90px;
@@ -19,19 +26,25 @@ header , ul  {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
+a {
+    text-decoration: none;
+}
+
+nav ul li a {
+    color: #ade1fb;
+}
+
 header ul li{
+    /* color: yellow; */
     display:  inline;
-    margin-right: 40px
+    padding-top: 30px;
+    margin-right: 40px;
+
 }
 
 header img {
     border-radius: 100%;
 
-}
-
-header a:hover {
-    animation-delay: 3ms;
-    color: #266ca9;
 }
 
 header #ramon {
