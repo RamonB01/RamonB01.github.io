@@ -135,8 +135,16 @@ header #al {
     padding-bottom: 50px;
     padding-top: 50px;
     text-align: center;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: larger;
     color: white
 
+}
+
+.herramientas img{
+    width: auto;
+    height: 500px;
 }
 
 .contacto {
